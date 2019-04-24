@@ -1,6 +1,7 @@
 module.exports = {
   siteTitle: 'Sudheshna Donthineni | Software Developer',
   siteUrl: 'https://krrupa.com',
+  siteDescription: 'I love to turn ideas into reality!',
   siteLanguage: 'en_US',
   /*googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',*/
   name: 'Sudheshna Donthineni',  
