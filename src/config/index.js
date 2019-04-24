@@ -1,14 +1,8 @@
 module.exports = {
   siteTitle: 'Sudheshna Donthineni | Software Developer',
-  /*siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
-  /*siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
   siteUrl: 'https://krrupa.com',
   siteLanguage: 'en_US',
-
   /*googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',*/
-
   name: 'Sudheshna Donthineni',  
   location: 'Santa Clara, CA',
   email: 'sudonthineni@gmail.com',
@@ -32,27 +26,9 @@ module.exports = {
     },
   ],
 
-  /*nav: [
-    {
-      name: 'About',
-      url: '#about',
-    },
-    {
-      name: 'Experience',
-      url: '#jobs',
-    },
-    {
-      name: 'Work',
-      url: '#projects',
-    },
-    {
-      name: 'Contact',
-      url: '#contact',
-    },
-  ],*/
 
   twitterHandle: '@sudonthineni',
-  /*googleAnalyticsID: 'UA-45666519-2',*/
+  
 
   headerHeight: 100,
 
