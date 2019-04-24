@@ -50,11 +50,16 @@ module.exports = {
               maxWidth: 1100,
               quality: 90,
               linkImagesToOriginal: true,
-            
+            },
           },
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: config.googleAnalyticsID,
+      },
     },
   ],
 };
