@@ -13,9 +13,30 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
+    "animejs": "^3.0.1",
+    "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.3.25",
+    "gatsby-image": "^2.0.39",
+    "gatsby-plugin-google-analytics": "^2.0.18",
+    "gatsby-plugin-manifest": "^2.0.29",
+    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-robots-txt": "^1.4.0",
+    "gatsby-plugin-sharp": "^2.0.35",
+    "gatsby-plugin-sitemap": "^2.0.12",
+    "gatsby-plugin-styled-components": "^3.0.7",
+    "gatsby-remark-external-links": "^0.0.4",
+    "gatsby-remark-images": "^3.0.10",
+    "gatsby-source-filesystem": "^2.0.29",
+    "gatsby-transformer-remark": "^2.3.8",
+    "gatsby-transformer-sharp": "^2.1.18",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.0",
+    "react-transition-group": "^4.0.0",
+    "scrollreveal": "^4.0.5",
+    "styled-components": "^4.2.0"
   },
   "devDependencies": {
     "prettier": "^1.17.0"
