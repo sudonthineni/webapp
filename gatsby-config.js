@@ -16,13 +16,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'SudheshnaDonthineni',
+        short_name: 'Sudheshna',
         start_url: '/',
-        background_color: config.darkNavyColor,
-        theme_color: config.navyColor,
+        background_color: config.white,
+        theme_color: config.red,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/favicons/logo.png',
       },
     },
     `gatsby-plugin-offline`,
@@ -55,11 +55,6 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: config.googleAnalyticsID,
-      },
     },
   ],
 };
