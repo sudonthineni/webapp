@@ -50,7 +50,7 @@ module.exports = {
               maxWidth: 1100,
               quality: 90,
               linkImagesToOriginal: true,
-            },
+            
           },
         ],
       },
