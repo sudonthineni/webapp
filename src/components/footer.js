@@ -74,8 +74,7 @@ const Footer = () => (
     <Copy>
       <GithubLink
         href="https://github.com/sudonthineni"
-        target="_blank"
-        rel="nofollow noopener noreferrer">
+        
         designed &amp; built w <b>&lt;3</b> by Sudheshna
       </GithubLink>
     </Copy>
