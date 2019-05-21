@@ -75,7 +75,7 @@ const Footer = () => (
       <GithubLink
         href="https://github.com/sudonthineni"
         
-        built w <b>&lt;3</b> by Sudheshna
+        built w <b>&lt;3</b> by Sudheshna>
       </GithubLink>
     </Copy>
   </FooterContainer>
